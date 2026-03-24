@@ -6,6 +6,7 @@ Simple JavaScript game using HTML buttons.
 - Random computer moves
 - Win/Lose logic
 - Clean UI
+- Score Saving
 
 ## Technologies
 - HTML
